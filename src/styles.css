@@ -2,3 +2,18 @@
   font-family: sans-serif;
   text-align: center;
 }
+form {
+  max-width: 200px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+label {
+  display: block;
+  text-align: left;
+  margin-top: 10px;
+}
+button {
+  margin-top: 10px;
+  width: 100px;
+}
